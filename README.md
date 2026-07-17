@@ -80,5 +80,4 @@ Gmail- Automated emails
 
 
 
-[Your Name]
-[Your LinkedIn or contact info]
+
