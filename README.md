@@ -1,6 +1,6 @@
  AI-Powered Appointment Booking & Client Management System
 
-An end-to-end automation system for beauty businesses that handles appointment booking, AI-generated client communication, and database management — all without manual intervention.
+An end-to-end automation system for beauty businesses that handles appointment booking, AI-generated client communication, and database management, all without manual intervention.
 
 
  Overview
